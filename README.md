@@ -1,37 +1,37 @@
-NLP-Fundamentals-Archive/
-│
-├── 01_Metin_On_Isleme/
-│   ├── stemming_lemmatization.py       (Eski ad: kök_bulma.py)
-│   ├── morphological_analysis_spacy.py (Eski ad: morfoloji.py)
-│   ├── pos_tagging_spacy.py            (Eski ad: pos.py)
-│   ├── stop_words_filtering.py         (Eski ad: stop_words.py)
-│   ├── text_cleaning_basics.py         (Eski ad: veritemizleme.py)
-│   └── tokenization_nltk.py            (Eski ad: tokenization.py)
-│
-├── 02_Vektorel_Temsil/
-│   ├── bag_of_words_model.py           (Eski ad: bag_of_words.py)
-│   ├── ngram_analysis_wordcloud.py     (Eski ad: ngram.py)
-│   ├── spam_detection_tfidf.py         (Eski ad: spam_tfidf.py)
-│   ├── count_vectorizer_intro.py       (Eski ad: vectorizer.py)
-│   └── tfidf_vectorizer_intro.py       (Eski ad: Tfid.py)
-│
-├── 03_Geleneksel_NLP_Modelleri/
-│   ├── pos_tagging_hmm.py              (Eski ad: hidden_markov.py)
-│   ├── max_entropy_classifier.py       (Eski ad: max_entropy.py)
-│   ├── wsd_lesk_nltk.py                (Eski ad: kelime_anlami_belirsizligi_giderme1.py)
-│   └── wsd_lesk_pywsd.py               (Eski ad: kelime_anlami_belirsizligi_giderme2.py)
-│
-├── 04_Makine_Ogrenmesi/
-│   └── sentiment_analysis_vader.py      (Eski ad: duygu_analizi.py)
-│
-├── 05_Modern_NLP_ve_LLM/
-│   ├── text_summarization_bart.py      (Eski ad: metin_ozetleme.py)
-│   ├── machine_translation_marianmt.py (Eski ad: metin_cevirisi.py)
-│   ├── text_generation_transformers.py (Eski ad: gpt_llama.py)
-│   └── openai_chatbot.py               (Eski ad: chatbot.py)
-│
-├── README.md
-└── requirements.txt
+NLP-Fundamentals-Archive
+
+01_Metin_On_Isleme
+
+stemming_lemmatization.py       
+morphological_analysis_spacy.py 
+pos_tagging_spacy.py            
+stop_words_filtering.py         
+text_cleaning_basics.py         
+tokenization_nltk.py            
+
+02_Vektorel_Temsil
+
+bag_of_words_model.py          
+ngram_analysis_wordcloud.py     
+spam_detection_tfidf.py         
+count_vectorizer_intro.py       
+tfidf_vectorizer_intro.py       
+
+03_Geleneksel_NLP_Modelleri/
+pos_tagging_hmm.py             
+max_entropy_classifier.py       
+wsd_lesk_nltk.py                
+wsd_lesk_pywsd.py               
+
+04_Makine_Ogrenmesi
+
+sentiment_analysis_vader.py      
+
+05_Modern_NLP_ve_LLM
+text_summarization_bart.py      
+machine_translation_marianmt.py 
+text_generation_transformers.py 
+openai_chatbot.py              
 
 # Doğal Dil İşleme Temelleri (NLP Fundamentals)
 
@@ -98,5 +98,6 @@ python -m spacy download en_core_web_sm
 -openai_chatbot.py dosyasını kullanmak için kendi OpenAI API anahtarınızı tanımlamanız gerekir.
 
 -LLaMA gibi büyük modelleri yerel makinede çalıştırırken yüksek bellek (RAM/VRAM) ihtiyacı olduğunu unutmayın.
+
 
 Hazırlayan: Melih Karabacak
