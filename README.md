@@ -9,6 +9,7 @@ stop_words_filtering.py
 text_cleaning_basics.py         
 tokenization_nltk.py            
 
+
 02_Vektorel_Temsil
 
 bag_of_words_model.py          
@@ -17,17 +18,22 @@ spam_detection_tfidf.py
 count_vectorizer_intro.py       
 tfidf_vectorizer_intro.py       
 
+
 03_Geleneksel_NLP_Modelleri/
+
 pos_tagging_hmm.py             
 max_entropy_classifier.py       
 wsd_lesk_nltk.py                
 wsd_lesk_pywsd.py               
 
+
 04_Makine_Ogrenmesi
 
 sentiment_analysis_vader.py      
 
+
 05_Modern_NLP_ve_LLM
+
 text_summarization_bart.py      
 machine_translation_marianmt.py 
 text_generation_transformers.py 
