@@ -40,7 +40,7 @@ Derin öğrenme ve Transformer tabanlı güncel teknolojiler.
 
 1. Repoyu klonlayın:
 ```bash
-git clone [https://github.com/Akumashin-1/NLP-Fundamentals-Archive.git](https://github.com/Akumashin-1/NLP-Fundamentals-Archive.git)
+git clone [https://github.com/melih-krbck/NLP-Fundamentals-Archive.git](https://github.com/Akumashin-1/NLP-Fundamentals-Archive.git)
 cd NLP-Fundamentals-Archive
 ```
 
