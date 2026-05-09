@@ -1,44 +1,4 @@
-NLP-Fundamentals-Archive
-
-01_Metin_On_Isleme
-
-stemming_lemmatization.py       
-morphological_analysis_spacy.py 
-pos_tagging_spacy.py            
-stop_words_filtering.py         
-text_cleaning_basics.py         
-tokenization_nltk.py            
-
-
-02_Vektorel_Temsil
-
-bag_of_words_model.py          
-ngram_analysis_wordcloud.py     
-spam_detection_tfidf.py         
-count_vectorizer_intro.py       
-tfidf_vectorizer_intro.py       
-
-
-03_Geleneksel_NLP_Modelleri/
-
-pos_tagging_hmm.py             
-max_entropy_classifier.py       
-wsd_lesk_nltk.py                
-wsd_lesk_pywsd.py               
-
-
-04_Makine_Ogrenmesi
-
-sentiment_analysis_vader.py      
-
-
-05_Modern_NLP_ve_LLM
-
-text_summarization_bart.py      
-machine_translation_marianmt.py 
-text_generation_transformers.py 
-openai_chatbot.py              
-
+         
 # Doğal Dil İşleme Temelleri (NLP Fundamentals)
 
 Bu depo, Doğal Dil İşleme (NLP) alanındaki temel kavramlardan modern Büyük Dil Modellerine (LLM) kadar uzanan kapsamlı bir Python uygulama arşividir. Metin temizleme, istatistiksel modeller, duygu analizi ve Transformer mimarileri gibi temel NLP aşamalarını içerir.
