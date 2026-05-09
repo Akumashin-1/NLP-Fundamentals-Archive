@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+nltk
+spacy
+pywsd
+wordcloud
+transformers
+torch
+openai
+sentencepiece
+textblob
+beautifulsoup4
