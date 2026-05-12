@@ -38,32 +38,32 @@ Derin öğrenme ve Transformer tabanlı güncel teknolojiler.
 
 ## 🚀 Kurulum ve Çalıştırma
 
-1. Repoyu klonlayın:
+**1. Repoyu klonlayın:
 ```bash
 git clone [https://github.com/melih-krbck/NLP-Fundamentals-Archive.git](https://github.com/melih-krbck/NLP-Fundamentals-Archive.git)
 cd NLP-Fundamentals-Archive
 ```
 
-2. Bağımlılıkları Yükleyin:
+**2. Bağımlılıkları Yükleyin:
 Gerekli tüm kütüphaneleri tek seferde kurmak için terminalinizde projenin bulunduğu dizine gidip şu komutu çalıştırın:
 ```bash
 pip install -r requirements.txt
 ```
 
-3.spaCy Dil Modelini İndirin:
+**3.spaCy Dil Modelini İndirin:
 ```bash
 python -m spacy download en_core_web_sm
 ```
 
-🛠️ Teknolojiler
+##🛠️ Teknolojiler
 -Kütüphaneler: NLTK, spaCy, Scikit-learn, Transformers, PyWSD, TextBlob, BeautifulSoup4.
 
 -Modeller: GPT-2, LLaMA-7B, BART, MarianMT.
 
-📝 Önemli Notlar
+##📝 Önemli Notlar
 -openai_chatbot.py dosyasını kullanmak için kendi OpenAI API anahtarınızı tanımlamanız gerekir.
 
 -LLaMA gibi büyük modelleri yerel makinede çalıştırırken yüksek bellek (RAM/VRAM) ihtiyacı olduğunu unutmayın.
 
 
-Hazırlayan: Melih Karabacak
+##Hazırlayan: Melih Karabacak
